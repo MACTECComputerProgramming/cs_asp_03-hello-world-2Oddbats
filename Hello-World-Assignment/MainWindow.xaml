@@ -7,8 +7,8 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Label x:Name="LabelMessage" Content="" HorizontalAlignment="Left" Margin="80,140,0,0" VerticalAlignment="Top" Width="242"/>
-        <Button x:Name="Buttton" Content="PUSH ME!!!" HorizontalAlignment="Left" Height="185" Margin="226,109,0,0" VerticalAlignment="Top" Width="491" Click="Buttton_Click"/>
+        <Label x:Name="LabelMessage" Content="" HorizontalAlignment="Left" Margin="116,0,-167.4,0" VerticalAlignment="Top" Width="845" FontFamily="Times New Roman" FontSize="100"/>
+        <Button x:Name="Buttton" Content="PUSH ME!!!" HorizontalAlignment="Left" Height="185" Margin="116,130,0,0" VerticalAlignment="Top" Width="491" Click="Buttton_Click" FontFamily="Segoe UI Black" FontSize="72" BorderBrush="#FF377C91" Background="#FF377C91"/>
 
     </Grid>
 </Window>
